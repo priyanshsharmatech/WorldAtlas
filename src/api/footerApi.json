@@ -1,0 +1,17 @@
+[
+  {
+    "icon": "MdPlace",
+    "title": "Find us",
+    "details": "Ghaziabad, Uttar Pradesh"
+  },
+  {
+    "icon": "IoCallSharp",
+    "title": "Call us",
+    "details": "+91-904-540-7623"
+  },
+  {
+    "icon": "TbMailPlus",
+    "title": "Mail us",
+    "details": "priyansh3112004@gmail.com"
+  }
+]
